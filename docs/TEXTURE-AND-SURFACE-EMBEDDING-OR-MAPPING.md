@@ -1,5 +1,9 @@
 ## Texture and Surface Embedding or Mapping
 
+**CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading**<br>
+*Mishan Aliev, Dmitry Baranchuk, Kirill Struminsky.*<br>
+WACV 2026. [[PDF](https://arxiv.org/abs/2504.06856)] [[Project](https://thecrazymage.github.io/CasTex/)]
+
 **UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping.**<br>
 *Aashish Rai, Dilin Wang, Mihir Jain, Nikolaos Sarafianos, Kefan Chen, Srinath Sridhar, Aayush Prakash.*<br>
 CVPR 2025. [[PDF](http://arxiv.org/abs/2502.01846)]
