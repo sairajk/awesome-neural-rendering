@@ -15,7 +15,7 @@ Given high-quality scene specifications, **Classic Rendering Methods** can rende
 
 ## Related Surveys and Course Notes
 
-**[Advances in Neural 3D Mesh Texturing: A Survey.](https://arxiv.org/abs/2606.00137)**<br>
+**[Advances in Neural 3D Mesh Texturing: A Survey.](https://sairajk.github.io/neural-mesh-texturing/)**<br>
 *Sai Raj Kishore Perla, Hao (Richard) Zhang, Ali Mahdavi-Amiri.*<br>
 Eurographics State-of-the-Art Report (Computer Graphics Forum), 2026.
 
