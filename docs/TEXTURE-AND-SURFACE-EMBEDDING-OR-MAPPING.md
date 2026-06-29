@@ -1,5 +1,9 @@
 ## Texture and Surface Embedding or Mapping
 
+**EASI-Tex: Edge-Aware Mesh Texturing from Single Image**<br>
+*Sai Raj Kishore Perla, Yizhi Wang, Ali Mahdavi-Amiri, Hao (Richard) Zhang.*<br>
+ACM ToG (SIGGRAPH) 2024. [[PDF](https://arxiv.org/abs/2405.17393)] [[Project](https://sairajk.github.io/easi-tex/)]
+
 **CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading**<br>
 *Mishan Aliev, Dmitry Baranchuk, Kirill Struminsky.*<br>
 WACV 2026. [[PDF](https://arxiv.org/abs/2504.06856)] [[Project](https://thecrazymage.github.io/CasTex/)]
